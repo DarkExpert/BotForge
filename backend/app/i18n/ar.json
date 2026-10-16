@@ -1,0 +1,8 @@
+{
+  "welcome": "مرحبًا بك في ‎@{username}‎!",
+  "language_selection": "اختر لغتك:",
+  "language_updated": "تم تحديث لغتك.",
+  "generic_error": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+  "help": "الأوامر المتاحة:\n/start — الترحيب\n/language — تغيير اللغة\n/help — عرض المساعدة",
+  "unsupported": "لم أفهم رسالتك. أرسل /help لعرض الأوامر."
+}

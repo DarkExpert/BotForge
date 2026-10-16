@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to @{username}!",
+  "language_selection": "Choose your language:",
+  "language_updated": "Your language has been updated.",
+  "generic_error": "Something went wrong. Please try again.",
+  "help": "Available commands:\n/start — welcome\n/language — change language\n/help — show this help",
+  "unsupported": "I didn't understand that. Send /help for commands."
+}

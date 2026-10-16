@@ -151,8 +151,17 @@ activemq-data/
 
 # Environments
 .env
+.env.*
+!.env.example
 .envrc
 .venv
+node_modules/
+dashboard/dist/
+*.db
+*.sqlite
+*.sqlite3
+.deps/
+.tmp/
 env/
 venv/
 ENV/
