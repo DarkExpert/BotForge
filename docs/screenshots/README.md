@@ -2,4 +2,4 @@
 
 ## Dashboard Preview
 
-![BotForge Operations Dashboard](docs/screenshots/dashboard-overview.png)
+![BotForge Operations Dashboard](dashboard-overview.png)
